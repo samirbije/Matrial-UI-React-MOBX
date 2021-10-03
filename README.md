@@ -1,4 +1,3 @@
-# Mercari assignment
 
 ## Pre-requisites
 ```
